@@ -1,2 +1,2 @@
 # KelvinHelmholtzInstability
-Kelvin Helmholtz Instability (KHI) simulation in python using a 2D finite volume scheme
+Simple Kelvin Helmholtz Instability (KHI) simulation in Python using a 2nd order 2D finite volume scheme
